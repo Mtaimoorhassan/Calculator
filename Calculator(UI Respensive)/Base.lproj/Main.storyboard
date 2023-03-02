@@ -333,9 +333,6 @@
                             <constraint firstItem="lTB-4m-dvb" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="teN-k6-loo"/>
                         </constraints>
                     </view>
-                    <connections>
-                        <outlet property="btn5" destination="j2M-Tf-YBH" id="CAF-QU-Anb"/>
-                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
